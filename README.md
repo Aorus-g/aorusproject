@@ -8,6 +8,6 @@ Gatau gabut aja
 
 # How to deploy in Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aorus-g/MirrorX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aorus-g/projectaorus)
 
 Hit the deploy to heroku button and follow the further instructions in the screen:
