@@ -23,11 +23,11 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 DEF_UNAPPROVED_MSG = (
-    "I haven't approved you to PM yet.\n"
-    "Wait for me to approve your PM.\n"
-    "Until then, don't spam my PM or you'll get blocked and reported as spam...\n"
-    "CAPICHE?\n\n"
-    "-Userbot"
+    "Sabar ya bang tunggu di acc.\n"
+    "Paling bentar lagi ada.\n"
+    "Until then, jangan spam too, ntar ke block hehe...\n"
+    "Jadi?\n\n"
+    "-aorusbot"
 )
 # =================================================================
 
